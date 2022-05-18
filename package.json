@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "making portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass sass/tooplate-style.scss css/tooplate-style.css -w"
+  },
+  "author": "prahnu bordoloi",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "sass": "^1.51.0"
+  }
+}
